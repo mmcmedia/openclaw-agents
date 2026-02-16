@@ -1,0 +1,30 @@
+{
+  "lastUpdated": "2026-01-31T01:55:51.921Z",
+  "dataStatus": "live",
+  "mtd": {
+    "totalRevenue": 7625.64,
+    "totalProfit": 7625.64,
+    "portfolioROAS": 3.49,
+    "totalTraffic": 215244
+  },
+  "goal": {
+    "target": 20000,
+    "minimum": 15000,
+    "current": 7625.64,
+    "percentage": 38.1
+  },
+  "sources": {
+    "mediavine": 4253.01,
+    "raptive": 1771,
+    "etsy": 1601.63,
+    "etsyGross": 3952.31,
+    "fbBonus": 0,
+    "other": 0
+  },
+  "comparison": {
+    "lastMonth": {
+      "totalRevenue": 0,
+      "changePercent": 0
+    }
+  }
+}

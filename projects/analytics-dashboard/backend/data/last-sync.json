@@ -1,0 +1,20 @@
+{
+  "startTime": "2026-02-13T13:30:30.806Z",
+  "sources": {
+    "social": {
+      "status": "success",
+      "accounts": 49,
+      "totalFollowers": 671054
+    },
+    "projections": {
+      "status": "success",
+      "sites": 5,
+      "projected_7_day": 978.8299999999999,
+      "projected_30_day": 3979.49,
+      "alerts": 3
+    }
+  },
+  "errors": [],
+  "summary": "📊 Data Sync Summary - Friday, Feb 13\n\n📱 Social: 49 accounts, 671,054 total followers\n💰 Projections: 5 sites\n   • Next 7 days: $978.83\n   • Next 30 days: $3979.49\n   ⚠️ 3 alert(s) detected",
+  "endTime": "2026-02-13T13:30:38.296Z"
+}

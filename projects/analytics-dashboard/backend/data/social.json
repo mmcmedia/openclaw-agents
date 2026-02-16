@@ -1,0 +1,937 @@
+{
+  "lastUpdated": "2026-02-13T13:30:38.288Z",
+  "dataStatus": "live",
+  "source": "getlate",
+  "accounts": [
+    {
+      "name": "Polish And Patterns",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "polishandpatterns",
+          "lastUpdated": "2026-02-13T02:26:44.636Z"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "polishandpatternsblog",
+          "lastUpdated": "2026-02-13T02:07:39.244Z"
+        }
+      }
+    },
+    {
+      "name": "Polish and Patterns",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "polishandpatternsblog",
+          "lastUpdated": "2026-02-13T02:03:09.322Z"
+        }
+      }
+    },
+    {
+      "name": "polishandpatternsblog",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "polishandpatternsblog"
+        }
+      }
+    },
+    {
+      "name": "polishandpatterns",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "polishandpatterns"
+        }
+      }
+    },
+    {
+      "name": "Styled Locks",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "Styled Locks",
+          "lastUpdated": "2026-02-13T02:25:58.139Z"
+        },
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "styledlocks",
+          "lastUpdated": "2026-02-13T02:03:37.230Z"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "styledlocks",
+          "lastUpdated": "2026-02-13T02:03:48.491Z"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "styledlocks",
+          "lastUpdated": "2026-02-13T02:07:59.649Z"
+        }
+      }
+    },
+    {
+      "name": "styledlocks",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "styledlocks"
+        }
+      }
+    },
+    {
+      "name": "Gloss & Hair",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "Gloss & Hair",
+          "lastUpdated": "2026-02-13T02:39:09.925Z"
+        }
+      }
+    },
+    {
+      "name": "Gloss and Hair",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "glossandhair",
+          "lastUpdated": "2026-02-13T02:06:37.622Z"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "glossandhair",
+          "lastUpdated": "2026-02-13T02:06:46.395Z"
+        }
+      }
+    },
+    {
+      "name": "glossandhair",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "glossandhair"
+        }
+      }
+    },
+    {
+      "name": "Gloss And Hair",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "glossandhair",
+          "lastUpdated": "2026-02-13T02:07:43.812Z"
+        }
+      }
+    },
+    {
+      "name": "Graceful Vows",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "gracefulvows",
+          "lastUpdated": "2026-02-13T02:39:09.590Z"
+        },
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "gracefulvows",
+          "lastUpdated": "2026-02-13T02:34:45.635Z"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "gracefulvows"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "gracefulvows",
+          "lastUpdated": "2026-02-13T02:07:54.315Z"
+        }
+      }
+    },
+    {
+      "name": "gracefulvowsblog",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "gracefulvowsblog"
+        }
+      }
+    },
+    {
+      "name": "The Makeup Mood",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "themakeupmood",
+          "lastUpdated": "2026-02-13T02:26:42.666Z"
+        },
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "themakeupmoodblog",
+          "lastUpdated": "2026-02-13T02:34:49.315Z"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "themakeupmoodblog"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "themakeupmood",
+          "lastUpdated": "2026-02-13T02:08:00.438Z"
+        }
+      }
+    },
+    {
+      "name": "themakeupmood",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "themakeupmood"
+        }
+      }
+    },
+    {
+      "name": "We Heart This",
+      "totalFollowers": 554360,
+      "totalGrowth": 1863,
+      "platforms": {
+        "facebook": {
+          "followers": 537801,
+          "growth": 1866,
+          "growthPercent": 0.35,
+          "username": "weheartthis",
+          "lastUpdated": "2026-02-13T02:33:02.921Z"
+        },
+        "instagram": {
+          "followers": 16559,
+          "growth": -3,
+          "growthPercent": -0.02,
+          "username": "weheartthis.co",
+          "lastUpdated": "2026-02-13T02:39:10.719Z"
+        }
+      }
+    },
+    {
+      "name": "weheartthis",
+      "totalFollowers": 65,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartthis"
+        },
+        "tiktok": {
+          "followers": 37,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartthis",
+          "lastUpdated": "2026-02-13T02:31:12.171Z"
+        },
+        "youtube": {
+          "followers": 28,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartthisofficial",
+          "lastUpdated": "2026-02-13T02:08:54.210Z"
+        }
+      }
+    },
+    {
+      "name": "We Heart Decorating",
+      "totalFollowers": 1,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 1,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdecorating",
+          "lastUpdated": "2026-02-13T02:26:42.199Z"
+        },
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdecorating",
+          "lastUpdated": "2026-02-13T02:34:47.059Z"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdecorating",
+          "lastUpdated": "2026-02-13T02:08:08.765Z"
+        }
+      }
+    },
+    {
+      "name": "weheartdecoratingblog",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdecoratingblog"
+        }
+      }
+    },
+    {
+      "name": "weheartdecorating",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdecorating",
+          "lastUpdated": "2026-02-13T02:34:47.734Z"
+        }
+      }
+    },
+    {
+      "name": "Bloom & Brick",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "bloomandbrickblog",
+          "lastUpdated": "2026-02-13T02:33:01.362Z"
+        }
+      }
+    },
+    {
+      "name": "bloomandbrickblog",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "bloomandbrickblog"
+        }
+      }
+    },
+    {
+      "name": "We Heart Desserts",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdesserts",
+          "lastUpdated": "2026-02-13T02:33:01.395Z"
+        },
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdesserts",
+          "lastUpdated": "2026-02-13T02:34:47.410Z"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdesserts",
+          "lastUpdated": "2026-02-13T02:34:48.548Z"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdesserts",
+          "lastUpdated": "2026-02-13T02:08:09.576Z"
+        }
+      }
+    },
+    {
+      "name": "weheartdesserts",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartdesserts"
+        }
+      }
+    },
+    {
+      "name": "We Heart Nail Designs",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "We Heart Nail Designs",
+          "lastUpdated": "2026-02-13T02:19:26.737Z"
+        },
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartnaildesigns",
+          "lastUpdated": "2026-02-13T02:03:52.205Z"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartnaildesigns",
+          "lastUpdated": "2026-02-13T02:08:16.972Z"
+        }
+      }
+    },
+    {
+      "name": "weheartnaildesigns",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartnaildesigns"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartnaildesigns",
+          "lastUpdated": "2026-02-13T02:34:48.654Z"
+        }
+      }
+    },
+    {
+      "name": "Living Tickled",
+      "totalFollowers": 173,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 173,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "livingtickled",
+          "lastUpdated": "2026-02-13T02:33:03.229Z"
+        },
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "livingtickled",
+          "lastUpdated": "2026-02-13T02:28:53.876Z"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "livingtickled",
+          "lastUpdated": "2026-02-13T02:28:55.349Z"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "livingtickled",
+          "lastUpdated": "2026-02-13T02:07:55.371Z"
+        }
+      }
+    },
+    {
+      "name": "livingtickled",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "livingtickled"
+        }
+      }
+    },
+    {
+      "name": "Today Mommy",
+      "totalFollowers": 37,
+      "totalGrowth": 0,
+      "platforms": {
+        "facebook": {
+          "followers": 37,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "todaymommy",
+          "lastUpdated": "2026-02-13T02:33:04.405Z"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "todaymommyblog"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "todaymommyblog",
+          "lastUpdated": "2026-02-13T02:07:34.862Z"
+        }
+      }
+    },
+    {
+      "name": "McKinzie",
+      "totalFollowers": 3,
+      "totalGrowth": 0,
+      "platforms": {
+        "instagram": {
+          "followers": 3,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "todaymommy",
+          "lastUpdated": "2026-02-13T02:39:10.544Z"
+        }
+      }
+    },
+    {
+      "name": "todaymommyblog",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "todaymommyblog"
+        }
+      }
+    },
+    {
+      "name": "We Heart Hairstyles",
+      "totalFollowers": 2,
+      "totalGrowth": 1,
+      "platforms": {
+        "facebook": {
+          "followers": 1,
+          "growth": 1,
+          "growthPercent": 0,
+          "username": "We Heart Hairstyles",
+          "lastUpdated": "2026-02-13T02:05:27.404Z"
+        },
+        "tiktok": {
+          "followers": 1,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "wehearthairstyles",
+          "lastUpdated": "2026-02-13T02:28:52.815Z"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "wehearthairstyles",
+          "lastUpdated": "2026-02-13T02:08:16.103Z"
+        }
+      }
+    },
+    {
+      "name": "wehearthairstyles",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "wehearthairstyles",
+          "lastUpdated": "2026-02-13T02:28:51.751Z"
+        },
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "wehearthairstyles"
+        }
+      }
+    },
+    {
+      "name": "We Heart Makeup",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartmakeupblog",
+          "lastUpdated": "2026-02-13T02:34:53.411Z"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartmakeupblog"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartmakeupblog",
+          "lastUpdated": "2026-02-13T02:07:37.471Z"
+        }
+      }
+    },
+    {
+      "name": "weheartmakeupblog",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartmakeupblog"
+        }
+      }
+    },
+    {
+      "name": "We Heart Cozy",
+      "totalFollowers": 2902,
+      "totalGrowth": 1425,
+      "platforms": {
+        "facebook": {
+          "followers": 2902,
+          "growth": 1425,
+          "growthPercent": 96.48,
+          "username": "weheartcozy",
+          "lastUpdated": "2026-02-13T02:33:01.585Z"
+        },
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartcozy",
+          "lastUpdated": "2026-02-13T02:28:55.836Z"
+        },
+        "tiktok": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartcozy",
+          "lastUpdated": "2026-02-13T02:28:56.645Z"
+        },
+        "youtube": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartcozy",
+          "lastUpdated": "2026-02-13T02:08:02.808Z"
+        }
+      }
+    },
+    {
+      "name": "weheartcozy",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "weheartcozy"
+        }
+      }
+    },
+    {
+      "name": "The Melrose Family",
+      "totalFollowers": 62919,
+      "totalGrowth": -108,
+      "platforms": {
+        "facebook": {
+          "followers": 62919,
+          "growth": -108,
+          "growthPercent": -0.17,
+          "username": "thenymelrosefamily",
+          "lastUpdated": "2026-02-13T02:33:00.545Z"
+        }
+      }
+    },
+    {
+      "name": "Melrose Family",
+      "totalFollowers": 7015,
+      "totalGrowth": -4,
+      "platforms": {
+        "instagram": {
+          "followers": 7015,
+          "growth": -4,
+          "growthPercent": -0.06,
+          "username": "melrosefamily",
+          "lastUpdated": "2026-02-13T02:39:09.814Z"
+        }
+      }
+    },
+    {
+      "name": "nymelrosefamily",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "nymelrosefamily"
+        }
+      }
+    },
+    {
+      "name": "Hello Hayley",
+      "totalFollowers": 18416,
+      "totalGrowth": 765,
+      "platforms": {
+        "facebook": {
+          "followers": 18413,
+          "growth": 765,
+          "growthPercent": 4.33,
+          "username": "TheHelloHayleyBlog",
+          "lastUpdated": "2026-02-13T02:19:31.176Z"
+        },
+        "tiktok": {
+          "followers": 3,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "hellohayleyblog",
+          "lastUpdated": "2026-02-13T02:39:11.281Z"
+        }
+      }
+    },
+    {
+      "name": "Hayley",
+      "totalFollowers": 1,
+      "totalGrowth": 0,
+      "platforms": {
+        "instagram": {
+          "followers": 1,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "hellohayleyblog",
+          "lastUpdated": "2026-02-13T02:39:09.956Z"
+        }
+      }
+    },
+    {
+      "name": "hellohayleyblog",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "pinterest": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "hellohayleyblog"
+        }
+      }
+    },
+    {
+      "name": "We Heart Animals",
+      "totalFollowers": 20076,
+      "totalGrowth": 10292,
+      "platforms": {
+        "facebook": {
+          "followers": 20068,
+          "growth": 10290,
+          "growthPercent": 105.24,
+          "username": "We Heart Animals",
+          "lastUpdated": "2026-02-13T02:35:34.976Z"
+        },
+        "instagram": {
+          "followers": 8,
+          "growth": 2,
+          "growthPercent": 33.33,
+          "username": "weheartanimals.co",
+          "lastUpdated": "2026-02-13T02:35:35.917Z"
+        }
+      }
+    },
+    {
+      "name": "weheartanimals",
+      "totalFollowers": 112,
+      "totalGrowth": 30,
+      "platforms": {
+        "tiktok": {
+          "followers": 112,
+          "growth": 30,
+          "growthPercent": 36.59,
+          "username": "weheartanimals.co",
+          "lastUpdated": "2026-02-13T02:35:36.773Z"
+        }
+      }
+    },
+    {
+      "name": "Shine For Christ",
+      "totalFollowers": 3533,
+      "totalGrowth": 358,
+      "platforms": {
+        "facebook": {
+          "followers": 3527,
+          "growth": 358,
+          "growthPercent": 11.3,
+          "username": "Shine For Christ",
+          "lastUpdated": "2026-02-13T02:03:44.794Z"
+        },
+        "instagram": {
+          "followers": 6,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "shineforchristmedia",
+          "lastUpdated": "2026-02-13T02:11:28.104Z"
+        }
+      }
+    },
+    {
+      "name": "shineforchrist",
+      "totalFollowers": 29,
+      "totalGrowth": 12,
+      "platforms": {
+        "tiktok": {
+          "followers": 29,
+          "growth": 12,
+          "growthPercent": 70.59,
+          "username": "shineforchrist.co",
+          "lastUpdated": "2026-02-13T02:11:27.136Z"
+        }
+      }
+    },
+    {
+      "name": "Good One, Dad - Jokes",
+      "totalFollowers": 1403,
+      "totalGrowth": -4,
+      "platforms": {
+        "facebook": {
+          "followers": 1403,
+          "growth": -4,
+          "growthPercent": -0.28,
+          "username": "Good One, Dad - Jokes",
+          "lastUpdated": "2026-02-13T02:13:41.667Z"
+        }
+      }
+    },
+    {
+      "name": "Dad Jokes",
+      "totalFollowers": 0,
+      "totalGrowth": 0,
+      "platforms": {
+        "instagram": {
+          "followers": 0,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "goodonedadjokes",
+          "lastUpdated": "2026-02-13T02:13:34.295Z"
+        }
+      }
+    },
+    {
+      "name": "goodonedad",
+      "totalFollowers": 7,
+      "totalGrowth": 0,
+      "platforms": {
+        "tiktok": {
+          "followers": 7,
+          "growth": 0,
+          "growthPercent": 0,
+          "username": "goodonedad",
+          "lastUpdated": "2026-02-13T02:13:40.035Z"
+        }
+      }
+    }
+  ]
+}

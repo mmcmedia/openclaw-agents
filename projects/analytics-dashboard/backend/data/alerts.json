@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-02-13T13:30:38.294Z",
+  "total_alerts": 3,
+  "critical": 1,
+  "warning": 2,
+  "alerts": [
+    {
+      "type": "revenue_drop",
+      "severity": "warning",
+      "site_id": "hello-hayley",
+      "site_name": "Hello Hayley",
+      "message": "Hello Hayley: Revenue WARNING - down 10.8% vs previous week",
+      "change_pct": -10.8,
+      "detected_at": "2026-02-13T13:30:38.292Z"
+    },
+    {
+      "type": "revenue_drop",
+      "severity": "critical",
+      "site_id": "today-mommy",
+      "site_name": "Today Mommy",
+      "message": "Today Mommy: Revenue CRITICAL - down 23.9% vs previous week",
+      "change_pct": -23.9,
+      "detected_at": "2026-02-13T13:30:38.293Z"
+    },
+    {
+      "type": "revenue_drop",
+      "severity": "warning",
+      "site_id": "we-heart-this",
+      "site_name": "We Heart This",
+      "message": "We Heart This: Revenue WARNING - down 11.0% vs previous week",
+      "change_pct": -11,
+      "detected_at": "2026-02-13T13:30:38.294Z"
+    }
+  ]
+}

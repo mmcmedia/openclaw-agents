@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-02-02T20:15:00.000Z",
+  "dataStatus": "live",
+  "source": "raptive",
+  "sites": [
+    {
+      "id": "melrose-family",
+      "name": "Melrose Family",
+      "adNetwork": "raptive",
+      "siteId": "5424b468a90318f9194877c6",
+      "mtdRevenue": 1815.00,
+      "mtdPageviews": 85202,
+      "mtdSessions": 73513,
+      "rpm": 24.70,
+      "videoRevenue": 585.89,
+      "trafficSource": "pinterest",
+      "trafficBreakdown": {
+        "direct": 30.5,
+        "pinterest": 29.2,
+        "google": 28.4,
+        "other": 11.9
+      },
+      "deviceBreakdown": {
+        "mobile": { "sessions": 47335, "rpm": 25.66, "earnings": 1214.67 },
+        "desktop": { "sessions": 22151, "rpm": 21.80, "earnings": 482.79 },
+        "tablet": { "sessions": 4027, "rpm": 29.29, "earnings": 117.95 }
+      },
+      "topContent": [
+        { "title": "44 Rainbow Craft Ideas for Kids", "pageviews": 6673 },
+        { "title": "22 Stunning Sourdough Scoring Designs", "pageviews": 3094 },
+        { "title": "45 DIY Painted Mug Ideas", "pageviews": 2347 },
+        { "title": "37 Creative Felt Craft Ideas", "pageviews": 1910 },
+        { "title": "52 Painted Rock Ideas", "pageviews": 1780 }
+      ],
+      "status": "live",
+      "isLiveData": true
+    }
+  ],
+  "summary": {
+    "totalRevenue": 1815.00,
+    "totalPageviews": 85202,
+    "averageRpm": 24.70
+  }
+}

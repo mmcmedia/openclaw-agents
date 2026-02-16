@@ -1,0 +1,63 @@
+{
+  "lastUpdated": "2026-01-30",
+  "dataStatus": "live",
+  "platform": "etsy",
+  "totalRevenue": 3952.31,
+  "totalNet": 1601.63,
+  "shops": [
+    {
+      "name": "WeHeartCozy",
+      "revenue": 610.47,
+      "orders": 188,
+      "fees": 202.48,
+      "ads": 206.79,
+      "netProfit": 201.2,
+      "isLiveData": true
+    },
+    {
+      "name": "Oakhavenprints",
+      "revenue": 65.79,
+      "orders": 14,
+      "fees": 124.34,
+      "ads": 117.53,
+      "netProfit": -176.08,
+      "isLiveData": true
+    },
+    {
+      "name": "Flourishframeworks",
+      "revenue": 28.99,
+      "orders": 7,
+      "fees": 15.38,
+      "ads": 33.16,
+      "netProfit": -19.55,
+      "isLiveData": true
+    },
+    {
+      "name": "TheSunDaisy",
+      "revenue": 2777.53,
+      "orders": 657,
+      "fees": 603.79,
+      "ads": 547.78,
+      "netProfit": 1625.96,
+      "isLiveData": true
+    },
+    {
+      "name": "QuincyMayPrints",
+      "revenue": 165.51,
+      "orders": 28,
+      "fees": 177.88,
+      "ads": 95.51,
+      "netProfit": -107.88,
+      "isLiveData": true
+    },
+    {
+      "name": "ShineForChrist",
+      "revenue": 304.02,
+      "orders": 62,
+      "fees": 94.83,
+      "ads": 131.21,
+      "netProfit": 77.98,
+      "isLiveData": true
+    }
+  ]
+}

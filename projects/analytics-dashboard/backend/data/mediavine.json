@@ -1,0 +1,78 @@
+{
+  "lastUpdated": "2026-01-30T15:57:33.779800",
+  "dataStatus": "live",
+  "platform": "mediavine",
+  "totalRevenue30d": 4253.2,
+  "totalSessions30d": 141243,
+  "sites": [
+    {
+      "name": "Hello Hayley",
+      "id": "hello-hayley",
+      "mtdRevenue": 3819.0,
+      "mtdSessions": 105791,
+      "rpm": 36.1,
+      "trafficSource": "google",
+      "status": "live",
+      "isLiveData": true,
+      "needsAttention": true,
+      "note": "Revenue down vs last month - needs investigation",
+      "mtdPageviews": 127715,
+      "dataSource": "csv-export"
+    },
+    {
+      "name": "Melrose Family",
+      "id": "melrose-family",
+      "mtdRevenue": 1771.0,
+      "mtdPageviews": 85664,
+      "rpm": 23.93,
+      "trafficSource": "google",
+      "status": "live",
+      "isLiveData": true,
+      "note": "Real data from Mediavine export",
+      "mtdSessions": 74001,
+      "dataSource": "raptive-excel",
+      "platform": "raptive"
+    },
+    {
+      "name": "We Heart This",
+      "id": "we-heart-this",
+      "mtdRevenue": 148.69,
+      "mtdSessions": 17716,
+      "rpm": 8.39,
+      "trafficSource": "pinterest",
+      "status": "live",
+      "isLiveData": true,
+      "note": "Mediavine only - FB bonus adds ~$100/day extra"
+    },
+    {
+      "name": "Living Tickled",
+      "id": "living-tickled",
+      "mtdRevenue": 136.62,
+      "mtdSessions": 7361,
+      "rpm": 18.56,
+      "trafficSource": "google",
+      "status": "live",
+      "isLiveData": true
+    },
+    {
+      "name": "Today Mommy",
+      "id": "today-mommy",
+      "mtdRevenue": 78.59,
+      "mtdSessions": 7718,
+      "rpm": 10.18,
+      "trafficSource": "pinterest",
+      "status": "live",
+      "isLiveData": true
+    },
+    {
+      "name": "Moms Make Cents",
+      "id": "moms-make-cents",
+      "mtdRevenue": 70.11,
+      "mtdSessions": 2657,
+      "rpm": 26.38,
+      "trafficSource": "google",
+      "status": "live",
+      "isLiveData": true
+    }
+  ]
+}
