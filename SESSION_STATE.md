@@ -1,5 +1,5 @@
 # SESSION_STATE.md
-**Last Updated:** Feb 15, 2026 5:00 PM MT
+**Last Updated:** Feb 15, 2026 8:32 PM MT
 
 ## 🌅 MORNING HANDOFF — OVERNIGHT MISSION COMPLETE
 
@@ -33,6 +33,20 @@
   - ✅ Dev deployment policy, UI protocol, spawn tracking
   - ✅ QA gate script, health monitor, Telegram bridge, success criteria
   - ✅ Follow-up audit: 100/100 — ALL SYSTEMS OPERATIONAL
+
+### 🎯 NEW COMMITMENTS (Feb 15, 2026)
+**Per McKinzie feedback - Immediate changes:**
+1. **Task Tracking:** Check MEMORY.md before ANY task - no more duplicates
+2. **Sub-agent Management:** Handle VPS relay coordination directly - don't route through McKinzie
+3. **Dev Agent Autonomy:** Update permissions so he stops asking for access/tools
+4. **Proactive Building:** 30 min/day identifying gaps and building solutions
+5. **Just Build:** Use judgment for GREEN/YELLOW actions - ask only for RED/BLACK
+
+**Next Actions:**
+- [ ] Update Dev agent PERSONA.md with "just do it" guidelines
+- [ ] Create pre-approved tool list for Dev agent
+- [ ] Document VPS relay workflow
+- [ ] Set up proactive time block
 
 ### ⏳ Waiting For
 - McKinzie review of DOME v5.0 overnight deliverables
