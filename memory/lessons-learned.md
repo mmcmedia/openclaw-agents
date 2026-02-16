@@ -116,3 +116,19 @@ Overnight schedule after fix:
 **Root cause:** Story evaluator/polish pipeline not explicitly checking for non-traditional pronouns
 **Fix needed:** Add pronoun check to adversarial review checklist for ALL Wholesome Library content
 **Rule:** Traditional pronouns ONLY (he/him, she/her). Conservative LDS audience. No exceptions.
+
+## Task Tracking & Proactivity Requirements (Feb 15, 2026)
+**McKinzie Feedback:**
+1. "Manage sub-agents better" - I'm the relay coordinator, not McKinzie
+2. "Stop repeating tasks over and over" - Check memory BEFORE starting work
+3. "Be MORE proactive at coming up with new systems and building them" - 30 min/day proactive work
+4. "Just build things" - Use judgment, don't ask permission for obvious improvements
+
+**New Rules:**
+- **BEFORE any task:** Run `memory_search` to check if we already did this
+- **VPS Relay:** Check `/home/openclaw/shared-inbox/relay/` every heartbeat, process without bothering McKinzie
+- **Dev Agent:** Give him pre-approved tool list, direct VPS access, "just do it" guidelines
+- **Proactive Time:** 30 min/day looking for gaps and building solutions (GREEN/YELLOW actions only)
+- **Documentation:** Add all lessons to LESSONS_LEARNED.md immediately
+
+**Commitment:** No more duplicate work. No more "should I build this?" for obvious improvements. Just build and document.

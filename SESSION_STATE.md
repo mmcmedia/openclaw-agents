@@ -1,5 +1,5 @@
 # SESSION_STATE.md
-**Last Updated:** Feb 15, 2026 8:32 PM MT
+**Last Updated:** Feb 15, 2026 9:52 PM MT
 
 ## 🌅 MORNING HANDOFF — OVERNIGHT MISSION COMPLETE
 
@@ -29,6 +29,9 @@
 - 4 kanban items ongoing (PsalMix, TheSunDaisy, Frame TV Easter, Image Forge)
 - VPS agents working on assigned tasks
 - **Dev Dashboard:** Auth unblocked (Basic Auth method provided), agent-status.json created
+- **PsalMix OAuth Issue** — Joshua reported Google OAuth showing Supabase hash URL instead of psalmix.com
+  - Diagnosed: Supabase Site URL + Google Cloud Console redirect config issue
+  - Fix provided to McKinzie (see memory/2026-02-15.md)
 - **OpenClaw System Fixes** — ✅ ALL 7 COMPLETE:
   - ✅ Dev deployment policy, UI protocol, spawn tracking
   - ✅ QA gate script, health monitor, Telegram bridge, success criteria
