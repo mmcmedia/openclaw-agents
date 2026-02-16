@@ -1,0 +1,170 @@
+/* PDF Master - Professional Report Template */
+
+@page {
+  size: letter;
+  margin: 1in;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  line-height: 1.6;
+  color: #2c3e50;
+  max-width: 100%;
+}
+
+/* Headers */
+h1 {
+  color: #1a365d;
+  font-size: 24pt;
+  font-weight: 700;
+  border-bottom: 3px solid #3182ce;
+  padding-bottom: 12px;
+  margin-bottom: 24px;
+  margin-top: 0;
+}
+
+h2 {
+  color: #2d3748;
+  font-size: 16pt;
+  font-weight: 600;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 8px;
+  margin-top: 32px;
+  margin-bottom: 16px;
+  page-break-after: avoid;
+}
+
+h3 {
+  color: #4a5568;
+  font-size: 13pt;
+  font-weight: 600;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 12px;
+  text-align: justify;
+}
+
+/* Lists */
+ul, ol {
+  margin-bottom: 16px;
+  padding-left: 24px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 10pt;
+}
+
+th {
+  background: #2d3748;
+  color: white;
+  font-weight: 600;
+  padding: 12px 16px;
+  text-align: left;
+  border: 1px solid #2d3748;
+}
+
+td {
+  padding: 10px 16px;
+  border: 1px solid #e2e8f0;
+}
+
+tr:nth-child(even) {
+  background: #f7fafc;
+}
+
+/* Code blocks */
+code {
+  background: #edf2f7;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'SF Mono', Monaco, 'Courier New', monospace;
+  font-size: 9pt;
+}
+
+pre {
+  background: #1a202c;
+  color: #e2e8f0;
+  padding: 16px;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 9pt;
+  margin: 16px 0;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  color: inherit;
+}
+
+/* Blockquotes - for callouts/notes */
+blockquote {
+  border-left: 4px solid #3182ce;
+  background: #ebf8ff;
+  padding: 12px 16px;
+  margin: 16px 0;
+  font-style: normal;
+}
+
+/* Status indicators */
+.status-high, .priority-high {
+  color: #c53030;
+  font-weight: 600;
+}
+
+.status-medium, .priority-medium {
+  color: #d69e2e;
+  font-weight: 600;
+}
+
+.status-low, .priority-low {
+  color: #38a169;
+  font-weight: 600;
+}
+
+/* Meta info box */
+.meta, .summary {
+  background: #f7fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+}
+
+/* Page breaks */
+.page-break {
+  page-break-after: always;
+}
+
+/* Print optimizations */
+@media print {
+  body {
+    font-size: 10pt;
+  }
+  
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+  
+  table, figure, img {
+    page-break-inside: avoid;
+  }
+  
+  a {
+    color: #2c3e50;
+    text-decoration: none;
+  }
+}
